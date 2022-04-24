@@ -8,6 +8,8 @@ cls
 
 @echo This batch file will scan your system for corrupt files and attempt to fix them (Please run as an Admin).
 
+@echo Note: to fullscreen the window press alt + enter.
+
 pause
 
 @echo Great, now let the boyo do its thing.
